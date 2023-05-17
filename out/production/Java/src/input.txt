@@ -1,0 +1,4 @@
+Write a program that reads in a text file and then counts
+the appearance of words line by line
+The result should be an overview of how many
+times each word was in the text
